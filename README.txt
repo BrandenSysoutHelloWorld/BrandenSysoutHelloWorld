@@ -1,27 +1,47 @@
-- 👋 Hi, I’m Branden van Staden.
+- 👋 HelloWorld, I’m Branden van Staden.
 ----------------------------------------
 - 👀 I’m interested in ...
-Software Development,
-Application Development and
-Artificial Intelligence.
+Programming Languages:
++	Java
++	C#
++	HTML
++	SQL
++	Bash/Shell/PowerShell
+
+Frameworks:
++	.NET
++	.NET Core
++	Node.js
++	ASP.NET
++	Angular.js
++	jQuery
+
+Applications:
++	Microsoft Office (Word, Excel, PowerPoint, Access, Visio, Outlook)
++	Microsoft Project
++	Android Studio
++	Visual Studio
++	NetBeans
++	Google Cloud Platform
++	Firebase
++	Microsoft Azure
+
+Additional:
++	Google API Library
++	JSON
 ----------------------------------------
 - 🌱 I’m currently learning ...
-C#,
-JAVA,
-XML,
-JavaScript,
-CSS and
-HTML.
-----------------------------------------
++ Web Development
++ Artificial intelligence
+---------------------------------------
 - 💞️ I’m looking to collaborate on ...
-NGO Projects,
-NPO Prjects and
-Innovative Ideas.
++ Large Scale Projects
++ Small Scale Projects
++ Initiatives
++ Contract / Full-time / Internship
 ----------------------------------------
 - 🕐 Ongoing Projects ...
-NuMaps©,
-NuPresents© and
-Quoridor.
+The Secret Love Project
 ----------------------------------------
 - 📫 How to reach me ... 
 Email : brandenconnected@gmail.com
