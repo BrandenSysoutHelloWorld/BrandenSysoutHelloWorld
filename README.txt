@@ -44,5 +44,6 @@ Additional:
 The Secret Love Project
 ----------------------------------------
 - 📫 How to reach me ... 
+LinkedIn : https://www.linkedin.com/in/branden-van-staden/
 Email : brandenconnected@gmail.com
 Call Number : 081 565 0206
