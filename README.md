@@ -27,7 +27,7 @@ I'm also familiar with other frameworks such as Apache and Nginx, which add vers
 
 I work with a range of platforms and services to power my projects, including:
 
-- VPS with OVG.cloud
+- OVH.cloud
 - Azure
 - GCP (Google Cloud Platform)
 - AWS (Amazon Web Services)
