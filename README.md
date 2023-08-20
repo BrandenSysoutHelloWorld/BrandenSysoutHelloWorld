@@ -57,9 +57,9 @@ And 2-4 years of experience with:
 
 I'm actively involved in the following organizations:
 
-1. **[AWAIT](https://www.example.com/await)** - Automated WebApp Integrated Testing. *(Placeholder for URL and Logo)*
-2. **[Line-by-Line Solutions](https://www.example.com/line-by-line-solutions)** - Building bespoke software solutions for clients. *(Placeholder for URL and Logo)*
-3. **[Wazaware](https://www.example.com/wazaware)** - An ecommerce store that specializes in selling gaming and computer hardware. The store automates the process of sourcing and ordering by scraping the internet for the best prices. *(Placeholder for URL and Logo)*
+1. **[AWAIT](#)** - Automated WebApp Integrated Testing. *(Placeholder for URL and Logo)*
+2. **[Line-by-Line Solutions](#)** - Building bespoke software solutions for clients. *(Placeholder for URL and Logo)*
+3. **[Wazaware](#)** - An ecommerce store that specializes in selling gaming and computer hardware. The store automates the process of sourcing and ordering by scraping the internet for the best prices. *(Placeholder for URL and Logo)*
 
 ## Contact Details
 
