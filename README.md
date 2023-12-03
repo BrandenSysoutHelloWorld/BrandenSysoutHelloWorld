@@ -1,6 +1,6 @@
 # Branden van Staden - Fullstack Software Engineer
 
-Hello, I'm **Branden van Staden**, a passionate Fullstack Software Engineer located in Cape Town, South Africa. I'm 23 years old, born on October 22, 1999. I thrive on challenges and continuously expand my skills in software development and engineering.
+Hello, I'm **Branden van Staden**, a passionate Fullstack Software Engineer located in Cape Town, South Africa. I'm 24 years old, born on October 22, 1999. I thrive on challenges and continuously expand my skills in software development and engineering.
 
 ## About Me
 
