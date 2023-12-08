@@ -55,7 +55,7 @@ And 2-4 years of experience with:
 
 Feel free to connect with me:
 
-- **Email:** brandenconnected@gmail.com
+- **Email:** brandenvs@hyperiondev.com
 - **Mobile:** 081 565 0206
 
-Let's collaborate, innovate, and make a difference in the world of software engineering! 🚀👨‍💻
+SE Code Mentor - Hyperion Development Cape Town 🚀👨‍💻 :: NEW OFFICIAL ACCOUNT@ ...
