@@ -1,12 +1,10 @@
-# Branden van Staden - Fullstack Software Engineer
-
-Hello, I'm **Branden van Staden**, a passionate Fullstack Software Engineer located in Cape Town, South Africa. I'm 24 years old, born on October 22, 1999. I thrive on challenges and continuously expand my skills in software development and engineering.
+Hey, I'm Branden van Staden, a Fullstack Software Engineer based in Cape Town, South Africa. At 24, born on October 22, 1999, I thrive on challenges and continually broaden my skills in EdTech, ML, Cloud Infrastructure, Data Sciences, Software Engineering, and Fullstack Development.
 
 ## About Me
 
-My journey in the world of software development is marked by the pursuit of challenges that push my boundaries. While I'm constantly learning and expanding my skill set, I also believe in giving back to the developer community. Teaching and sharing knowledge with beginner programmers is my way of contributing to the growth of the community. I'm a firm believer that learning should be an ongoing journey, and my passion lies in programming and all its related fields. I find immense joy in learning and subsequently teaching others, as it reinforces and validates my own understanding.
+My journey in the software development realm involves tackling challenges that push my boundaries. I'm always in learning mode, looking to expand my skill set. I strongly believe in giving back to the developer community. Teaching and sharing knowledge with beginner programmers is my way of contributing to the community's growth. I see learning as an ongoing journey, and my passion lies in programming and its related fields. Discovering joy in learning and passing on that knowledge to others reinforces and validates my own understanding.
 
-## Expertise
+## Industry ...
 
 I excel in the following programming languages:
 
@@ -21,7 +19,7 @@ In the realm of web frameworks, I've honed my skills in:
 - ASP.NET MVC (Advanced)
 - Django (Advanced)
 
-I'm also familiar with other frameworks such as Apache and Nginx, which add versatility to my skill set.
+I'm also familiar with other frameworks such as Apache  Nginx, which add versatility to my skill set.
 
 ## Platforms & Services
 
@@ -52,14 +50,6 @@ And 2-4 years of experience with:
 - .NET
 - ASP.NET
 - C#
-
-## Organizations
-
-I'm actively involved in the following organizations:
-
-1. **[AWAIT](#)** - Automated WebApp Integrated Testing. *(Placeholder for URL and Logo)*
-2. **[Line-by-Line Solutions](#)** - Building bespoke software solutions for clients. *(Placeholder for URL and Logo)*
-3. **[Wazaware](#)** - An ecommerce store that specializes in selling gaming and computer hardware. The store automates the process of sourcing and ordering by scraping the internet for the best prices. *(Placeholder for URL and Logo)*
 
 ## Contact Details
 
