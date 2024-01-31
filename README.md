@@ -1,4 +1,4 @@
-# Portfolio - Branden v Staden.
+# Portfolio - Branden v Staden
 
 Kindly note:
 
@@ -10,7 +10,9 @@ Kindly note:
 ---
 
 *Please contact me via email for any concerns/purposals/collaborations:*
-> branden-van-staden@outlook.com
+> <branden-van-staden@outlook.com>
 
 *To observe Branden van Staden's skills and qualification, visit his LinkedIn profile. Linked Below:*
-> https://www.linkedin.com/in/branden-developer/
+> <https://www.linkedin.com/in/branden-developer/>
+
+Also see, <https://github.com/branden-fullstackdev>
